@@ -2,10 +2,12 @@
 
 A fun and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**. Challenge the computer and test your luck! ✨
 
+---
+
 ## 🚀 Live Demo
 
 🔗 **Play Now:**
-https://yourusername.github.io/repository-name/
+https://kallupallianusha.github.io/Rock-Paper-Scissors-Game/
 
 ---
 
