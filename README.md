@@ -58,7 +58,7 @@ Follow these steps to run the project on your system:
 ## 📸 Preview
 
 <img width="1874" height="811" alt="image" src="https://github.com/user-attachments/assets/0bde535f-d2dc-4cd0-972f-55341a2334bf" />
-hi
+<br>
 <img width="1875" height="812" alt="image" src="https://github.com/user-attachments/assets/ea6d7229-32d5-48ab-9ff9-c4788ef9f401" />
 
 ---
