@@ -36,7 +36,7 @@ Follow these steps to run the project on your system:
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/KallupalliAnusha/Rock-Paper-Scissors-Game.git
    ```
 2. Open the project folder
 3. Double-click **index.html**
@@ -57,24 +57,8 @@ Follow these steps to run the project on your system:
 
 ## 📸 Preview
 
-*Add a screenshot of your game here to make it more attractive*
+<img width="1874" height="811" alt="image" src="https://github.com/user-attachments/assets/0bde535f-d2dc-4cd0-972f-55341a2334bf" />
+<img width="1875" height="812" alt="image" src="https://github.com/user-attachments/assets/ea6d7229-32d5-48ab-9ff9-c4788ef9f401" />
 
 ---
 
-## 📌 Future Improvements
-
-* Add sound effects 🔊
-* Add score tracking 📊
-* Improve animations 🎨
-
----
-
-## 🙌 Author
-
-**Your Name**
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
